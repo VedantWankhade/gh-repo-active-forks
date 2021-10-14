@@ -1,0 +1,9 @@
+{
+    "name": "Github Repo Active Forks",
+    "description": "A browser extension that displays active forks of a github repository on its main page",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
